@@ -12,5 +12,5 @@ It is inspired by the approach proposed by J. Pereira and M. Silveira in paper "
 The code has taken inspiration in [Pytorch's VAE example](https://github.com/pytorch/examples/blob/master/vae/main.py)
 
 
-Read our article [here]()
+Read our article [here]() <br />
 Look at the implemented model [here](https://github.com/LauJohansson/AnomalyDetection_VariationalAutoencoderLSTM/blob/master/VAE_LSTM_mode.ipynb)
