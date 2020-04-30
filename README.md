@@ -1,4 +1,4 @@
-# AnomalyDetection_VariationalAutoencoderLSTM
+# Anomaly Detection using Variational Autoencoder LSTM
 
 ***Authors: Jonas Søbro Christophersen & Lau Johansson*** <br /> <br />
 
