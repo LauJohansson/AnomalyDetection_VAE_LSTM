@@ -2,7 +2,6 @@
 
 ***Authors: Jonas Søbro Christophersen & Lau Johansson*** <br /> <br />
 
-Read our article [here]()
 
 This repository contains hand-in assignment for the DTU course 02460 Advanced Machine Learning. 
 
@@ -12,3 +11,6 @@ It is inspired by the approach proposed by J. Pereira and M. Silveira in paper "
 
 The code has taken inspiration in [Pytorch's VAE example](https://github.com/pytorch/examples/blob/master/vae/main.py)
 
+
+Read our article [here]()
+Look at the implemented model [here]()
