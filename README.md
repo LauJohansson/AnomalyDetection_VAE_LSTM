@@ -14,5 +14,5 @@ The code has taken inspiration in [Pytorch's VAE example](https://github.com/pyt
 
 Read our article [here]() <br />
 Look at the implemented model [here](https://github.com/LauJohansson/AnomalyDetection_VariationalAutoencoderLSTM/blob/master/VAE_LSTM_model.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LauJohansson/AnomalyDetection_VariationalAutoencoderLSTM/blob/master/VAE_LSTM_model.ipynb)
+
 
