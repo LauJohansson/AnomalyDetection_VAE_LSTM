@@ -7,6 +7,8 @@ This repository contains hand-in assignment for the DTU course 02460 Advanced Ma
 
 This notebook is a implementation of a variational autoencoder which can detect anomalies unsupervised.
 
+![alt text](https://raw.githubusercontent.com/LauJohansson/AnomalyDetection_VAE_LSTM/master/reconstruct_anomali.png)
+
 It is inspired by the approach proposed by J. Pereira and M. Silveira in paper "Unsupervised Anomaly Detection in Energy Time Series Data Using Variational Recurrent Autoencoders with Attention". Find it [here](https://ieeexplore.ieee.org/document/8614232)
 
 The code has taken inspiration in [Pytorch's VAE example](https://github.com/pytorch/examples/blob/master/vae/main.py)
